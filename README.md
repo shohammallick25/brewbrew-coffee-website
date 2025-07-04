@@ -1,4 +1,6 @@
-# brewbrew-coffee-website
+# ☕brewbrew-coffee-website
+![image](https://github.com/user-attachments/assets/df0f4888-67b6-4bef-b621-e3bc47f5ae7e)
+
 ☕ BrewBrewCoffee — A stylish coffee shop website featuring a dynamic menu, online shop, and contact form. Wake up. Sip up. Power up! 🚀
 .
 
